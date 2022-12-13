@@ -1,0 +1,14 @@
+.circle {
+    height: 50px;
+    width: 50px;
+    background-color: #555;
+    border-radius: 50%;
+  }
+
+  .row{
+    margin: 25px;
+  }
+
+  .card{
+    padding: 10px;
+  }
